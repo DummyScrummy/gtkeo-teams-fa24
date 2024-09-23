@@ -1,0 +1,15 @@
+img {
+    width: 900px;
+    height: 700px;
+    margin-left: calc(50% - 400px);
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px 0px 100px;
+}
+
+li {
+    padding: 3px;
+}
